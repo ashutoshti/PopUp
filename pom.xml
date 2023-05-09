@@ -50,7 +50,7 @@
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
-			<version>7.0.0</version>
+			<version>7.5.1</version>
 			<scope>test</scope>
 		</dependency>
 		<!--  https://mvnrepository.com/artifact/io.cucumber/cucumber-junit  -->
@@ -63,7 +63,7 @@
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
-			<version>6.14.3</version>
+			<version>7.5.1</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 		<dependency>
